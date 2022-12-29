@@ -68,8 +68,9 @@ namespace projetoHospedagem.Models
             Console.Clear();
             Console.WriteLine("===========================================");
             Console.WriteLine($"Tipo da Suite: {suite.TipoSuite.ToUpper()}");
-            Console.WriteLine($"Quantidade de Hóspedes: {reserva.ObterQuantidadeHospedes()} Pessoas");
-            Console.WriteLine($"Valor diária: R${reserva.CalcularValorDiaria()}");
+            Console.WriteLine($"Quantidade de Hóspedes: {reserva.ObterQuantidadeHospedes()}");
+            Console.WriteLine($"Dias Hospedados: {reserva.DiasReservados}");
+            Console.WriteLine($"Valor a Pagar: R${reserva.CalcularValorDiaria()}");
             Console.WriteLine("===========================================");
         }
     }
