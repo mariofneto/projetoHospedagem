@@ -1,0 +1,15 @@
+C:\dev\Bootcamp\projetoHospedagem\bin\Debug\net7.0\projetoHospedagem.exe
+C:\dev\Bootcamp\projetoHospedagem\bin\Debug\net7.0\projetoHospedagem.deps.json
+C:\dev\Bootcamp\projetoHospedagem\bin\Debug\net7.0\projetoHospedagem.runtimeconfig.json
+C:\dev\Bootcamp\projetoHospedagem\bin\Debug\net7.0\projetoHospedagem.dll
+C:\dev\Bootcamp\projetoHospedagem\bin\Debug\net7.0\projetoHospedagem.pdb
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.csproj.AssemblyReference.cache
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.AssemblyInfoInputs.cache
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.AssemblyInfo.cs
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.csproj.CoreCompileInputs.cache
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.dll
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\refint\projetoHospedagem.dll
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.pdb
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\projetoHospedagem.genruntimeconfig.cache
+C:\dev\Bootcamp\projetoHospedagem\obj\Debug\net7.0\ref\projetoHospedagem.dll
