@@ -12,5 +12,7 @@
   - void CadastrarSuite(Suite suite)
   - int ObterQuantidadeHospedes()
   - decimal CalcularValorDiaria()
+  
+  Lembrando que: Se a reserva for maior ou igual a 10 dias então recebo um desconto de 10% no valor da diária
 
   
